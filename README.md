@@ -1,4 +1,4 @@
-# Brute Force 5 caracteres (A–Z, a–z, 0–9) em Go
+# Brute Force 7 caracteres (A–Z, a–z, 0–9) em Go
 
 ## Build
 make all
